@@ -8,7 +8,7 @@ Map2Latin is a command-line tool that transliterates Eurocontrol Member States l
 
 ## Project Structure
 
-```bash
+```
 Map2Latin/
 ├─ originals/ # Original text files here (input)
 ├─ translits/ # Transliteration files here (output)
@@ -22,13 +22,13 @@ Map2Latin/
 
 ## Usage
 
-```bash
+```
 python scripts/transliteration.py <language_name> <input_file> <output_file>
 ```
 
 ## Example
 
-```bash
+```
 python scripts/transliteration.py russian russian.txt russianT.txt
 ```
 
@@ -38,7 +38,7 @@ Albanian, Armenian, Bosnian, Bulgarian, Croatian, Czech, Danish, Dutch, English,
 
 ## Others
 
-All input files go in ```bash originals/ ``` and output files are saved in ```bash translits/ ```.
+All input files go in ```originals/ ``` and output files are saved in ```translits/ ```.
 
 Russian, Ukrainian, and Macedonian have special transliteration rules handled by separate scripts.
 
