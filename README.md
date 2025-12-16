@@ -34,11 +34,11 @@ python scripts/transliteration.py russian russian.txt russianT.txt
 
 ## Supported Languages
 
-Albanian, Armenian, Bosnian, Bulgarian, Croatian, Czech, Danish, Dutch, Esperanto, Estonian, Finnish, French, Georgian, German, Greek, Hebrew, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Macedonian, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish, Ukrainian.
+Albanian, Armenian, Bosnian, Bulgarian, Croatian, Czech, Danish, Dutch, English, Esperanto, Estonian, Finnish, French, Georgian, German, Greek, Hebrew, Hungarian, Icelandic, Italian, Latvian, Lithuanian, Macedonian, Norwegian, Polish, Portuguese, Romanian, Russian, Serbian, Slovak, Slovenian, Spanish, Swedish, Turkish, Ukrainian.
 
 ## Others
 
-All input files go in originals/ and output files are saved in translits/.
+All input files go in ```bash originals/ ``` and output files are saved in ```bash translits/ ```.
 
 Russian, Ukrainian, and Macedonian have special transliteration rules handled by separate scripts.
 
