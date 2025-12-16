@@ -42,6 +42,6 @@ All input files go in ```originals/ ``` and output files are saved in ```transli
 
 Russian, Ukrainian, and Macedonian have special transliteration rules handled by separate scripts.
 
-Add new languages by updating MAP.py and writing a custom transliteration function if needed.
+Add new languages by updating ```MAP.py``` and writing a custom transliteration function if needed.
 
 Most dictionnaries were adapted from [HermitDave's FrequencyWords repository](https://github.com/hermitdave/FrequencyWords) and cleaned for consistency.
