@@ -19643,10 +19643,8 @@ pogrešate
 filozof
 marcusa
 napolnjena
-aaa
 cola
 kupovali
-22h
 preizkusili
 discipline
 pokončati
@@ -19774,7 +19772,6 @@ požrli
 javljam
 skrinja
 bobne
-9h
 uporabna
 conor
 zavedali
@@ -19820,7 +19817,6 @@ dijaki
 bande
 lažnivi
 zastopal
-speed
 prstane
 črve
 sladice
@@ -19830,7 +19826,6 @@ diskretno
 nastali
 svarim
 zbrisal
-psst
 eleganten
 sloane
 dodamo
@@ -19874,7 +19869,6 @@ večnega
 mesu
 pogiej
 smetnjaku
-r2
 poveljstva
 prefinjeno
 paketa
@@ -19887,8 +19881,6 @@ glavah
 mature
 utihne
 skrinjico
-aj
-bunny
 rezal
 zadrževala
 podobnosti
@@ -19918,7 +19910,6 @@ oslarija
 medijih
 tabli
 spore
-how
 rae
 prešli
 gledalce
@@ -22176,7 +22167,6 @@ tonik
 ledvica
 zamujajo
 datuma
-17h
 dihala
 gimnazijo
 ekonomije
@@ -22551,7 +22541,6 @@ tuna
 zaprtega
 žveči
 izsledi
-16h
 dorrit
 nežni
 odsekali
@@ -23062,7 +23051,6 @@ trmasti
 okostje
 borita
 soren
-19h
 aidan
 risbo
 praznuje
@@ -23134,7 +23122,6 @@ kulturni
 naročiš
 mrho
 forenzike
-fire
 upiraš
 drekači
 zaupnih
@@ -23159,7 +23146,6 @@ rusov
 članstvo
 kilograma
 kupcev
-6h
 trofeja
 rešita
 voziva
@@ -23575,7 +23561,6 @@ mortimer
 kaznuješ
 sadež
 izčrpani
-bol
 prsnega
 pristopi
 mono
@@ -23587,7 +23572,6 @@ norijo
 carmine
 značilnosti
 potovanj
-8h
 jajčka
 človečnost
 mumija
@@ -24361,7 +24345,6 @@ pametnejše
 priseljenci
 holmesa
 kopico
-18h
 vladnih
 cullen
 uh-oh
@@ -25394,8 +25377,6 @@ padcem
 dovoljeni
 božičnega
 vedra
-15h
-playboy
 okradli
 zaželite
 orange
@@ -27236,14 +27217,12 @@ wei
 poligraf
 veljalo
 označeno
-bus
 derrick
 travniku
 obrambna
 smiselna
 oriji
 tratil
-7h
 puški
 vrtela
 zebra
@@ -27491,7 +27470,6 @@ kolumbiji
 intervjuje
 timesa
 mikro
-4h
 iranu
 pogubljeni
 zaključiva
@@ -29443,7 +29421,6 @@ močnimi
 memphis
 mad
 bemti
-23h
 ulične
 ctu-ja
 samospoštovanje
@@ -29876,7 +29853,6 @@ danu
 plačava
 zmajevo
 koke
-tiny
 literaturo
 starinski
 psihiatrom
@@ -29904,7 +29880,6 @@ ustalila
 razburljiv
 prvotna
 sočne
-5h
 obesim
 zdrobila
 družabna
@@ -30656,15 +30631,12 @@ cimri
 pojete
 vznemirjaš
 predpisov
-11h
-deep
 pretvarjate
 pinky
 uporabnik
 sentimentalen
 navijačic
 driscoll
-12-ih
 predrzni
 igrale
 krek
@@ -31290,7 +31262,6 @@ smee
 stevu
 prepricana
 zaželen
-12h
 zajčki
 zavarovanju
 drl
@@ -32629,7 +32600,6 @@ jezditi
 izračune
 molekul
 bale
-2h
 obravnaval
 nike
 resnosti
@@ -35863,7 +35833,6 @@ verde
 polsestra
 napiješ
 probala
-3h
 razideva
 nadškofa
 rabljen
@@ -36144,10 +36113,8 @@ objektivno
 zaprtju
 nehvaležni
 kravi
-ph
 tokove
 dnevnega
-šššš
 smrdela
 morama
 ločujejo
@@ -36218,7 +36185,6 @@ potujeta
 pristopiti
 prevzemu
 sestavim
-give
 spraznite
 uresničitev
 debelim
@@ -36229,7 +36195,6 @@ lexom
 tekočega
 ogledaš
 doktorjev
-lost
 odličnem
 sucre
 napoja
@@ -36277,7 +36242,6 @@ premagani
 zadoščalo
 peša
 trčenja
-clovis
 uradnikov
 astronavta
 preuči
@@ -36587,7 +36551,6 @@ pozabaval
 barake
 spočet
 pokolu
-13h
 kmaiu
 natrpan
 hov
@@ -36604,7 +36567,6 @@ jessici
 ženine
 orehov
 oswalda
-21h
 khalid
 spopadov
 pomeriti
@@ -36956,7 +36918,6 @@ klientu
 brezčutno
 highland
 evidence
-xo
 odpirajte
 wilma
 priključi
@@ -45513,7 +45474,6 @@ zamaskiran
 pokadim
 pensilvanije
 pospravijo
-usa
 tum
 čakalni
 malarija
